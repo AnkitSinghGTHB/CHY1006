@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ README](./README.md) | [Next: Conservation Strategies ➡️](./02-biodiversity-conservation-strategies.md)
+[⬅️ Back to README](./README.md) | [Next: Conservation Strategies ➡️](./02-biodiversity-conservation-strategies.md)

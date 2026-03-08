@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Photochemical Smog](./09-photochemical-smog.md) | [Next: Sustainable Development ➡️](./11-sustainable-development-challenges.md)
+[⬅️ Back to README](./README.md) | [Next: Sustainable Development ➡️](./11-sustainable-development-challenges.md)

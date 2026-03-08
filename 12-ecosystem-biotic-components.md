@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Sustainable Development](./11-sustainable-development-challenges.md) | [Next: Food Chains & Food Webs ➡️](./13-food-chains-food-webs.md)
+[⬅️ Prev: Phosphorus Cycle](./06-phosphorus-cycle.md) | [Next: Food Chains & Food Webs ➡️](./13-food-chains-food-webs.md)

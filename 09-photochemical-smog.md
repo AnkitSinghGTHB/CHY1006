@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Air Pollution](./08-causes-effects-air-pollution.md) | [Next: Consumerism ➡️](./10-consumerism.md)
+[⬅️ Prev: Air Pollution](./08-causes-effects-air-pollution.md) | [Next: Water Footprint ➡️](./14-water-footprint-virtual-water.md)

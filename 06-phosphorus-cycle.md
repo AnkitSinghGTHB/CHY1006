@@ -48,4 +48,4 @@
 
 ---
 
-[⬅️ Prev: Carbon Cycle](./05-carbon-cycle.md) | [Next: Primary & Secondary Pollutants ➡️](./07-primary-secondary-pollutants.md)
+[⬅️ Prev: Carbon Cycle](./05-carbon-cycle.md) | [Next: Ecosystem & Biotic Components ➡️](./12-ecosystem-biotic-components.md)

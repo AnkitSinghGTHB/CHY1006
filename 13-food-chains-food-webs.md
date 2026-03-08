@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Ecosystem](./12-ecosystem-biotic-components.md) | [Next: Water Footprint ➡️](./14-water-footprint-virtual-water.md)
+[⬅️ Prev: Ecosystem](./12-ecosystem-biotic-components.md) | [Back to README ⬅️](./README.md)

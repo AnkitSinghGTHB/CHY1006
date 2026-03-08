@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Phosphorus Cycle](./06-phosphorus-cycle.md) | [Next: Causes & Effects of Air Pollution ➡️](./08-causes-effects-air-pollution.md)
+[⬅️ Back to README](./README.md) | [Next: Causes & Effects of Air Pollution ➡️](./08-causes-effects-air-pollution.md)

@@ -1,6 +1,16 @@
-# Challenges of Sustainable Development and Strategies to Overcome Them
+# Challenges of Sustainable Development, Pillars, and Strategies to Overcome
 
-## 10 Points
+## Pillars of Sustainable Development
+Sustainable development rests on **three pillars** (Triple Bottom Line):
+- **Economic** — Sustainable growth, fair trade, poverty reduction, green jobs
+- **Social** — Equity, education, healthcare, human rights, cultural preservation
+- **Environmental** — Biodiversity conservation, pollution control, climate action, resource management
+
+All three must be balanced — economic growth that destroys the environment or ignores social equity is NOT sustainable.
+
+---
+
+## 10 Points on Challenges and Strategies
 
 1. **Poverty & Inequality** — 700M+ live in extreme poverty, forced into unsustainable practices. Richest 10% = 50% of emissions. **Strategy:** Inclusive growth, microfinance, SDGs framework.
 
@@ -24,4 +34,4 @@
 
 ---
 
-[⬅️ Prev: Consumerism](./10-consumerism.md) | [Next: Ecosystem & Biotic Components ➡️](./12-ecosystem-biotic-components.md)
+[⬅️ Prev: Consumerism](./10-consumerism.md) | [Next: Socio-Environmental Interactions ➡️](./17-socio-environmental-interactions.md)

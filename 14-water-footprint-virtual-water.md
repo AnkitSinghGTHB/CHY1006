@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Food Chains](./13-food-chains-food-webs.md) | [Next: Kyoto Protocol ➡️](./15-kyoto-protocol.md)
+[⬅️ Prev: Photochemical Smog](./09-photochemical-smog.md) | [Next: Kyoto Protocol ➡️](./15-kyoto-protocol.md)
