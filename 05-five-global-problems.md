@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Global Warming](./18-global-warming-greenhouse-gases.md) | [Back to README ⬅️](./README.md)
+[⬅️ Prev: Global Warming](./04-global-warming.md) | [Back to README ⬅️](./README.md)

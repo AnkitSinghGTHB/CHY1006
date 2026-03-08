@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Back to README](./README.md) | [Next: Sustainable Development ➡️](./11-sustainable-development-challenges.md)
+[⬅️ Back to README](./README.md) | [Next: Sustainable Development ➡️](./02-sustainable-development.md)

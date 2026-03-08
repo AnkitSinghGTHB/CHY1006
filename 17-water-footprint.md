@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Photochemical Smog](./09-photochemical-smog.md) | [Next: Kyoto Protocol ➡️](./15-kyoto-protocol.md)
+[⬅️ Prev: Photochemical Smog](./16-photochemical-smog.md) | [Next: Kyoto Protocol ➡️](./18-kyoto-protocol.md)

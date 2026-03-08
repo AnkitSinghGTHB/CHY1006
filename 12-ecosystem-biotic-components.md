@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Phosphorus Cycle](./06-phosphorus-cycle.md) | [Next: Food Chains & Food Webs ➡️](./13-food-chains-food-webs.md)
+[⬅️ Prev: Phosphorus Cycle](./11-phosphorus-cycle.md) | [Next: Food Chains ➡️](./13-food-chains-food-webs.md)

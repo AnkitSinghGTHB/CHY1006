@@ -56,4 +56,4 @@
 
 ---
 
-[⬅️ Prev: Importance of Biodiversity](./03-importance-of-biodiversity.md) | [Next: Carbon Cycle ➡️](./05-carbon-cycle.md)
+[⬅️ Prev: Importance of Biodiversity](./08-importance-of-biodiversity.md) | [Next: Carbon Cycle ➡️](./10-carbon-cycle.md)

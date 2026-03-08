@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Sustainable Development](./11-sustainable-development-challenges.md) | [Next: Global Warming ➡️](./18-global-warming-greenhouse-gases.md)
+[⬅️ Prev: Sustainable Development](./02-sustainable-development.md) | [Next: Global Warming ➡️](./04-global-warming.md)

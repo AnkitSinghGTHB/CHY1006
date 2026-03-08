@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Pollutant Types](./07-primary-secondary-pollutants.md) | [Next: Photochemical Smog ➡️](./09-photochemical-smog.md)
+[⬅️ Prev: Pollutant Types](./14-primary-secondary-pollutants.md) | [Next: Photochemical Smog ➡️](./16-photochemical-smog.md)

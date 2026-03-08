@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Socio-Environmental Interactions](./17-socio-environmental-interactions.md) | [Next: Five Global Environmental Problems ➡️](./19-five-global-environmental-problems.md)
+[⬅️ Prev: Socio-Environmental Interactions](./03-socio-environmental-interactions.md) | [Next: Five Global Environmental Problems ➡️](./05-five-global-problems.md)

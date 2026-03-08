@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Threats](./01-threats-to-biodiversity.md) | [Next: Importance of Biodiversity ➡️](./03-importance-of-biodiversity.md)
+[⬅️ Prev: Threats to Biodiversity](./06-threats-to-biodiversity.md) | [Next: Importance of Biodiversity ➡️](./08-importance-of-biodiversity.md)

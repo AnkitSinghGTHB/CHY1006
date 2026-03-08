@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Water Footprint](./14-water-footprint-virtual-water.md) | [Next: Montreal Protocol ➡️](./16-montreal-protocol.md)
+[⬅️ Prev: Water Footprint](./17-water-footprint.md) | [Next: Montreal Protocol ➡️](./19-montreal-protocol.md)

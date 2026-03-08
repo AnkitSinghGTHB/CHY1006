@@ -47,4 +47,4 @@
 
 ---
 
-[⬅️ Prev: Nitrogen Cycle](./04-nitrogen-cycle.md) | [Next: Phosphorus Cycle ➡️](./06-phosphorus-cycle.md)
+[⬅️ Prev: Nitrogen Cycle](./09-nitrogen-cycle.md) | [Next: Phosphorus Cycle ➡️](./11-phosphorus-cycle.md)

@@ -1,4 +1,4 @@
-# Challenges of Sustainable Development, Pillars, and Strategies to Overcome
+# Challenges of Sustainable Development, Pillars, and Strategies
 
 ## Pillars of Sustainable Development
 Sustainable development rests on **three pillars** (Triple Bottom Line):
@@ -34,4 +34,4 @@ All three must be balanced — economic growth that destroys the environment or 
 
 ---
 
-[⬅️ Prev: Consumerism](./10-consumerism.md) | [Next: Socio-Environmental Interactions ➡️](./17-socio-environmental-interactions.md)
+[⬅️ Prev: Consumerism](./01-consumerism.md) | [Next: Socio-Environmental Interactions ➡️](./03-socio-environmental-interactions.md)

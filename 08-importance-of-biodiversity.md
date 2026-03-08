@@ -24,4 +24,4 @@
 
 ---
 
-[⬅️ Prev: Conservation](./02-biodiversity-conservation-strategies.md) | [Next: Nitrogen Cycle ➡️](./04-nitrogen-cycle.md)
+[⬅️ Prev: Conservation Strategies](./07-biodiversity-conservation.md) | [Next: Nitrogen Cycle ➡️](./09-nitrogen-cycle.md)

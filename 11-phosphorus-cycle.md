@@ -48,4 +48,4 @@
 
 ---
 
-[⬅️ Prev: Carbon Cycle](./05-carbon-cycle.md) | [Next: Ecosystem & Biotic Components ➡️](./12-ecosystem-biotic-components.md)
+[⬅️ Prev: Carbon Cycle](./10-carbon-cycle.md) | [Next: Ecosystem ➡️](./12-ecosystem-biotic-components.md)

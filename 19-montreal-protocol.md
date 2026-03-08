@@ -20,8 +20,8 @@
 
 9. **Climate Bonus** — CFC phase-out avoided ~135B tonnes CO₂-equivalent emissions (1990–2010). Climate benefit is **5–6× greater than Kyoto Protocol's** first commitment period.
 
-10. **Why It Succeeded** — Clear science + visible "ozone hole" threat + available alternatives (HFCs, later HFOs) + financial support for developing nations + industry cooperation (DuPont) + trade restrictions on non-parties + adaptive amendments. A model for future treaties. Celebrated annually on **16 September** (World Ozone Day).
+10. **Why It Succeeded** — Clear science + visible "ozone hole" threat + available alternatives (HFCs, later HFOs) + financial support for developing nations + industry cooperation (DuPont) + trade restrictions on non-parties + adaptive amendments. Celebrated annually on **16 September** (World Ozone Day).
 
 ---
 
-[⬅️ Prev: Kyoto Protocol](./15-kyoto-protocol.md) | [Back to README ⬅️](./README.md)
+[⬅️ Prev: Kyoto Protocol](./18-kyoto-protocol.md) | [Back to README ⬅️](./README.md)
